@@ -2,7 +2,7 @@
 /**
  *print_last_digit ->this print thte last  digit of num
  *@n: this num that compute the last digit
- *Return :the lasts digit
+ *Return:the lasts digit
  */
 int print_last_digit(int n)
 {
